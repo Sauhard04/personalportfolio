@@ -7,7 +7,7 @@ Welcome to my portfolio website! This project showcases my journey as a develope
 ## 📸 Screenshots  
 
 ### **Home Page**  
-![Home Page Screenshot]([./screenshots/home.png](https://github.com/Sauhard04/personalportfolio/blob/d9db5411bc22132aeac894a31f00cb3bede22707/home1.png))  
+![Home Page Screenshot](home1.png)  
 
 ### **Projects Section**  
 ![Projects Screenshot](./screenshots/projects.png)  
